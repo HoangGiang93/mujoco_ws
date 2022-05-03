@@ -7,3 +7,6 @@
 - git:
     local-name: mujoco_sim
     uri: git@github.com:HoangGiang93/mujoco_sim.git
+- git:
+    local-name: mujoco_world
+    uri: git@github.com:HoangGiang93/mujoco_world.git
